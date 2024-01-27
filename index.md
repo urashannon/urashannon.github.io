@@ -10,8 +10,6 @@ Use your MSX for the best audio experience.
 
 # Grillowave
 
-<center>
-[![Grillowave Essentials 1](src/img/grillo1.png)](https://urashannon.github.io/src/dsk/grillo1.dsk)
+[![Grillowave Essentials 1](src/img/grillo1.png)](https://urashannon.github.io/src/dsk/grillo1.dsk){:style="display:block; margin-left:auto; margin-right:auto"}
 
-[Grillowave Essentials 1 on WebMSX](http://webmsx.org/?DISKA=https://urashannon.github.io/src/dsk/grillo1.dsk)
-<\center>
+[Grillowave Essentials 1 on WebMSX](http://webmsx.org/?DISKA=https://urashannon.github.io/src/dsk/grillo1.dsk){:style="display:block; margin-left:auto; margin-right:auto"}
