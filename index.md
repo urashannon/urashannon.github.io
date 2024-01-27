@@ -8,7 +8,7 @@ title: 裏Shannon
 Use your MSX for the best audio experience.
 **Always use your MSX.** Click on the image to get your sweet crickets.
 
-# Grillowave
+# Grillowave Essentials 1 (03/02/2024)
 
 [![Grillowave Essentials 1](src/img/grillo1.png)](https://urashannon.github.io/src/dsk/grillo1.dsk)
 
