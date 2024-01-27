@@ -2,8 +2,7 @@
 title: 裏Shannon
 ---
 
-[Bandcamp](https://urashannon.bandcamp.com/)
-
+[![Bandcamp](src/img/bandcamp.png)](https://urashannon.bandcamp.com/)
 
 
 Use your MSX for the best audio experience.
